@@ -21,6 +21,11 @@ namespace ConsoleApplication1
             Console.WriteLine("a: " + a);
             Console.WriteLine("b: " + b);
 
+            if (a == 9)
+            {
+                return;
+            }
+
             Console.ReadKey();
 
 
