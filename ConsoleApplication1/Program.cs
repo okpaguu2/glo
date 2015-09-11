@@ -15,6 +15,9 @@ namespace ConsoleApplication1
 
             a = b = 5;
             a = b + 33;
+
+            a = 993;
+
             Console.WriteLine("a: " + a);
             Console.WriteLine("b: " + b);
 
